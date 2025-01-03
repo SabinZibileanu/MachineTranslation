@@ -1,0 +1,375 @@
+Te trais but! : La mulţi ani!
+Dobroituca. : Bună ziua
+Socares? : Ce mai faci?
+Socares prala? : Ce faci frate?
+Sohalean. : Ce ai mâncat?
+Ciplecealma tuta. : Nu pot să te sufăr.
+Mai bes hatan. : Stai puțin.
+Mishto. : Bine.
+Haida jas manta ando foro? : Mergi cu mine în oraș?
+Camis te jas manta? : Vrei să mergi cu mine?
+Hai i tu avreal. : Hai și tu pe afară.
+Na mai des duma acate k dikel so penau. : Nu mai vorbi aici că ne aude ce vorbim
+Tehala la ce ora inalnisaosame? : Mâine la cât ne întâlnim?
+Haida care. : Hai acasă.
+Sar busos? : Cum te cheama?
+Chechibars satu. : Câți ani ai?
+Motomanga. : Spune și mie
+Cai san? : Unde ești?
+Star? : De ce?
+Chechi so ceaso? : Cât este ceasul?
+Sukar san. : Ce frumos ești.
+Na dara. : Nu te teme.
+Cai sans? : Unde ai fost?
+Me sim andai Scotia. : Sunt din Scoția
+Sodi Barsh situ? : Câți ani ai?
+Catar san? : De unde ești?
+So cardean aghes? : Ce ai făcut azi?
+Sar sas kiro aghes? : Cum a fost ziua ta?
+Kai si o lil? : Unde este cartea?
+Von si students. : Ei sunt studenți.
+Cai karas buki? : Unde muncești?
+Ajukar dui minute vime avau tusa! : Așteaptă două minute, vin și eu cu tine!
+Ande panj minute arasas cai scoala : În 5 minute o să fiu la școală.
+Sode si o chaso? : Cât este ceasul?
+Márá baba hai muro papo si ande Romania. : Bunica și bunicul meu sunt în România.
+Beshan andi Anglia. : Ei locuiesc în Anglia.
+Man si man dui pheia hai yek phral : Am două surori și un frate.
+Me sim andai Romania. : Sunt din România.
+Man si man bish thai dui barsh. : Am 22 de ani.
+Tu kai nashtisailean? : Unde te-ai născut?
+Chimai dea o bráshand de but timpo. : Nu a plouat de mult timp.
+Márá culoarea preferato si lila. : Culoarea mea preferată este mov.
+Dabia ajucarau te avel o Milai te jeas sea ko ghes ando parko hai te chas inghetata. : Abia aștept să vină vara sa pot merge în parc în fiecare zi și să mănânc înghețată.
+Ce sukar ges si ages. : Ce zi frumoasă este azi.
+Da si ek ges de primávara foarte sukar ages. : Da, azi este o zi frumoasă.
+Ages simtoma pozitivo hai cu but energia : Azi mă simt pozitiv și plin de energie.
+Araki simas stressome hai tristo : Ieri am fost stresat și trist.
+Sar simtostu? : Cum te simți?
+Regretiu so cardem : Regret ce am făcut.
+Lertisarma : Îmi pare rău.
+Faltu nasul anda so cardean? : Îți pare rău de ce ai făcut?
+Cames te phenes vareso? : Vrei să spui ceva?
+Ce planuri situ cau weekend? : Ce planuri ai pentru weekend?
+Galem te phiravama avri ca sas foarte tato. : Am ieșit la o plimbare afară pentru că era foarte cald.
+Ceau me sim mishto angárau le shaoran cai scoala hai pala kodea jiau kai buki. : Bună, sunt bine, îi duc pe copii la școală și apoi merg la muncă după aceea.
+Vime mishto jiau cal cumparaturi. : Și eu sunt bine, mă duc la cumpărături.
+Kiradem habe hai galem ando parko cu o jucal. : Am gătit mâncare și am mers în parc cu câinele meu.
+Vo astardea o televizori : El a pornit televizorul.
+Tu shutean le chare ando dulapo? : Ai pus farfuriile în dulap?
+Muro ghes sas faino simas cal cumparaturi. : Ziua mea a fost frumoasă, am fost la cumpărături.
+Jiau cau magazino. : Mă duc la magazin.
+Me cau weekend relaxoma hai scriu. : La sfârșit de săptămână mă relaxez și scriu.
+Numa ame dui. : Doar noi doi
+Ages me simtsoma mishto hai calmo. : Astăzi mă simt bine și calm.
+Me chi simtoma mishto sim stressome sima ek migrena. : Nu mă simt bine, sunt stresată și am migrene.
+O kurko cai naklea simas foarte kini. : Săptămâna trecută am fost foarte obosită.
+Me simtosailem lindra. : M-am simțit somnoros.
+Ce misto ca anklisteam andau ivent. : Este minunat că am ieșit din iarnă.
+Savi si ki culoarea preferato? : Care este culoarea ta preferată?
+Na prea mishto. : Nu foarte bine.
+Jea Deulesa! : Mergi cu Dumnezeu!
+Ande Romania si treanda hai panj grade ando milai. : În România sunt 35 de grade vara.
+So piraves cai petrecerea? : Ce porți la petrecere?
+Cai si márá papuci kale? : Unde sunt pantofii mei negri?
+Vremea : Vremea
+Tato : Cald
+Shîl : Frig
+Barval : Vânt
+Bráshund : Ploaie
+Cam : Soare
+Cheri : Cer
+Nori : Nori
+Noroso : Noros
+Furtuna : Furtună
+Yu : Zăpadă
+Si Foarte tato avri : E foarte cald afară
+Senino : Senin
+Stele : Stele
+Reat : Noapte
+Si shîl ages : E frig astăzi
+Chimai dea o bráshand de but timpo : Nu a mai plouat de mult timp
+Kado bársh chi dea o yu : Nu a mai nins de mult timp
+Lolo : Roșu
+Loli pabai : Măr roșu
+Dui lole paba : Două mere roșii
+Zeleno : Verde
+Vináto : Albastru
+Les si les yaka vinatsi : El are ochii albaștri
+Roza : Roz
+La sila buchi roza : Ea are obrajii roz
+Lila : Mov
+Portocalio : Portocaliu
+Galbeno : Galben
+Les si les papuchi galbeni : El are pantofi galbeni
+Maronio : Maro
+Len si le genti maroni : Ei au genți maro
+Kalo : Negru
+Curcubeo : Curcubeu
+Sunakai : Aur
+Sunakuno : Auriu
+Man si ma lantso sunakuno : Am un lanț de aur
+Rupuno : Argintiu
+Man si ma motoro rupuno : Am o mașină argintie
+Márá culoarea preferato si lila : Culoarea mea preferată este mov
+Savi si ki culoarea preferato? : Care este culoarea ta preferată
+O corpo : Corpul
+Sháro : Cap
+Yaka : Ochi
+Nak : Nas
+Usht : Buze
+Mui : Față
+Chikat : Frunte
+Vast : Mână
+Kan : Urechi
+Pungro/pangra : Picior/picioare
+Buka/buchi : Obraz/obraji
+Sprincene : Sprîncene
+Jene : Gene
+Bal : Păr
+Kor : Gât
+Dume/Dumo : Umeri/umăr
+Taka : Axile
+Vast : Mână
+Naia/Nai : Deget/degete
+Kolin : Piept
+Par : Burtă
+Sholduri : Șolduri
+Zaia : Spate
+Cui/cuia : Cot/coate
+Chang/changa : Genunchi/genunche
+Maladem márá chang : M-am lovit la genunchi
+Talpa : Talpa piciorului
+Cálcáia : Călcâi
+Naia catal pangra : Degete
+Shib : Limbă
+Dand : Dinți
+Tarea : Dinții din spate
+Kokala : Oase
+Kokalo : Os
+Ducaltut o pungro? : Te dor picioarele?
+Changa hai naia catal pangra : Genunchi și degete
+Sháro dume : Cap și umeri
+Yaka hai kan : Ochi și urechi
+Hai mui hai nac : Și ochi și nas
+Sentimente : Sentimente
+Foloso : Fericit
+Me sim foloso : Sunt fericit
+Tristo : Trist
+Nervoso : Nervos
+Aggresivo : Agresiv
+Lindralo : Somnoros
+Lindrali : Somnoroasă
+Manga bok : Îmi este foame
+Manga lajau : Eu sunt timid
+Laka lajau : Ea este timidă
+Dar : Speriat
+Manga dar : Eu sunt speriat
+Calmo : Calm
+Sukar : Frumos
+Vo si harano : El este bun
+Binecuvintime : Binecuvântat
+Binecuvintarea : Binecuvântare
+Affectome : Afectat
+Shokime : Șocat
+Lubime : Iubit
+Lubirea : Iubire
+Ura : Ură
+Protejime : Protejat
+Pacea : Pace
+Mándro : Mândru
+Voi si mandra : Ea este frumoasă
+Stressome : Stresat
+Relaxome : Relaxat
+Hasardi : Pierdut
+Miserabilo : Mizerabil
+Emotsii : Emoționat
+Confortabilo : Confortabil
+Confuso : Confuz
+Poate : Poate
+Multumiutucá : Mulțumesc
+Rugiutu : Te rog
+Rugiutu sukar : Te rog frumos
+Khancheste : Cu plăcere
+Cai si : Unde este
+Con si : Cine este
+Con sas : Cine a fost
+Kana : Când
+Sostar : De ce
+So : Ce
+Sar : Cum
+Khárá : Acasă
+Bukea kháráská : Obiecte de casă
+Khár : Casă
+Oglinda : Oglindă
+Frigideri : Frigider
+Microvela : Cuptor cu microunde
+Giuveta : Chiuvetă
+Baia : Baie
+Fierbator : Fierbător
+Pato : Pat
+Televizori : Televizor
+Voi pandadea o udar : Ea a închis ușa
+Vo astardea o televizori : El a aprins televizorul
+Mudar o beco : Închide lumina
+Shu e vaza pe meseali : Pune vasul pe masă
+So si kadava? : Ce este acesta?
+Kadava si jekh ruv. : Acesta este un lup.
+So si kadala? : Ce sunt aceștia?
+Kadala si nìśte ruva. : Aceștia sunt niște lupi.
+Kajθar aven e ruva? : De unde vin lupii?
+E ruva aven anθar veś. : Lupii vin din pădure.
+Kaj avel o ruv kana si bokhalo? : Unde vine lupul când este flămând?
+Von aven anθ-e gava. : Ei vin în sate.
+So si kadala? : Ce sunt aceștia?
+So si kadava? : Ce este acesta?
+Sar si o moxton? : Cum este cufărul?
+O moxton si tikno. : Cufărul este mic.
+O moxton si nevo? : Cufărul este nou?
+E moxtona si neve? : Cuferele sunt noi?
+E moxtona si tikne. : Cuferele sunt mici.
+Sar si e moxtona? : Cum sunt cuferele?
+Kadava si jekh grast. : Acesta este un cal.
+Kadala si nìśte grasta. : Aceștia sunt niște cai.
+Sar si o grast? : Cum este calul?
+Sar si e grasta? : Cum sunt caii?
+O grast si parno? : Calul este alb?
+E grasta si kale? : Caii sunt negri?
+Ina, an i loli skafedi, na i kali skafedi! : Ina, adu fața de masă roşie, nu fața de masă neagră! 
+Kana? : Când? 
+Akana, akana! : Acum, acum! 
+Kon anel e rroja? : Cine aduce lingurile? 
+Me. : Eu. 
+O phral anel o lon? : Fratele aduce sarea?  
+Va, vov anel o lon. : El aduce sarea.   
+I phen so anel? : Sora ce aduce?  
+Voj anel o pani. : Ea aduce apa. 
+So anel o kak? : Ce aduce unchiul?  
+Vov anel i loli mol. : Unchiul aduce vinul roșu. 
+Tu so anes? : Tu ce aduci? 
+Me anav o marro. : Eu aduc pâinea.  
+Thaj von so anen? : Și ei ce aduc? 
+Von anen e šare. : Ei aduc farfuriile. 
+Ame so anas? : Noi ce aducem? 
+Ame anas o thud thaj o kiral. : Noi aducem laptele și brânza.  
+I bibi anel o kòkalo? : Mătușa aduce osul? 
+Na, i bibi anel i šhuri. : Nu, mătușa aduce cuțitul. 
+Thaj o dad? : Și tatăl?  
+O dad thaj i daj anen o śax thaj o mas. : Tatăl și mama aduc varza și carnea.   
+Tha‘ o rikono so anel vi vov? : Dar cățelul ce aduce și el?  
+Vov anel o kòkalo. : El aduce osul.
+Aśunes man? : Mă auzi?
+Lenqe khera si zèlena vi bodle : Casele lor sunt verzi şi albastre.
+Na! Kathe si jekh guruvni! : Nu! Aici este o vacă! 
+Kon si kadala? : Cine sunt aceştia? 
+Kadala si duj veśàrǎ. : Aceştia sunt doi pădurari.  
+Kajθar aven e veśne? : De unde vin pădurarii? 
+Von aven anθar veśa. : Ei vin din păduri. 
+So si kothe? : Ce este acolo? 
+Nìśte purane phurta. : Nişte poduri vechi.  
+Kaj si e pòdurǎ (phurta)? : Unde sunt podurile? 
+Von si kothe, kaj si panǎ. : Ele sunt acolo, unde sunt ape. 
+Kathe si nìśte guruva? : Aici sunt nişte boi? 
+Na! Kathe si trin guruvnǎ. : Nu! Aici sunt trei vaci. 
+Te siklǒvas khethanes anθar klàsa! : Să învățăm împreună încă din clasă!
+Kadala si bale? : Aceştia sunt porci? 
+Na! Von si nìśte baśne! : Nu! Ei sunt nişte cocoşi. 
+So si kothe? : Ce este acolo? 
+Kothe si śtar gone: duj si lole, thaj duj si zèlena. : Acolo sunt patru saci: doi sunt roşi, iar doi sunt verzi. 
+Sar si kodola gone? Si šuše? : Cum sunt acei saci? Sunt goi? 
+Na, von si pherde. : Nu, ei sunt plini. 
+Kaj si e gone? : Unde sunt sacii? 
+Von si anθa vurdon. : Ei sunt în căruţă. 
+So si kodola? : Ce sunt acelea? 
+Kodola si deś dikhle. : Acelea sunt zece batice.  
+Kadala so sine? : Acestea ce sunt? 
+Kadala si nìśte kòkala. : Acestea sunt nişte oase. 
+Sar si von? : Cum sunt ele? 
+Von hin parne. : Ele sunt albe. 
+So si kadala? : Ce sunt acestea?
+3i kaj ʒas? : Până unde mergem? 
+Fal man laćhes! : Îmi pare bine! 
+Fal man miśto te dikhav tut! : Mă bucur să te văd! 
+Fal man miśto te dikhav tut! : Îmi pare bine să te văd!
+Fal man miśto te prinʒarav tut! : Îmi face plăcere să te cunosc!
+Fal man nasul! : Îmi pare rău!
+Kaj phirdǎn? : Pe unde ai umblat? 
+Kaj sas, kaj n-as... : A fost odată ca niciodată...
+Kajθar ʒanes kadaja? : De unde ştii aceasta? 
+Katar ʒanes kadaja! : De unde ştii aceasta?
+Kaθar ʒanes kadaja! : De unde ştii aceasta?
+Kana maj aves palpale? : Când te mai întorci?
+Kana maśkar le rromenθe beśes, rromanes vakǎres! : Când între rromi locuiești, rromanes grăiești!
+Kana maśkar le rromenθe beśes, rromanes vakǎres! : Dacă între rromi locuiești, rromanes grăiești!
+Kana te maj dikhav tut? : Când să te mai văd? 
+Ker manqe than! : Fă-mi loc!
+Le jekh skamin thaj beś tele! : Ia un scaun şi stai jos!
+Me mangav tut... : Te rog...
+Me na darav khanćesθar! : Nu mă tem de nimic!
+Me semas nasvalo. : Am fost bolnav.
+Miśto sutilem! : Am dormit bine! 
+Miśto sutem! : Am dormit bine! 
+Na-i khanć! : Nu-i nimic!
+Na-i khanć! : Nu face nimic!
+Na-i sosqe! : Pentru nimic!
+Piav drab. : Fumez. 
+Cirdav. : Fumez.
+Pies drab? : Fumezi?
+Cirdes anθar i thuvali? : Fumezi?
+Rǎt laćhi! : Noapte bună! 
+Sov Devleça! : Noapte bună!
+Soven Devleça! : Noapte bună!
+Sar san? : Ce faci? 
+Sar san? : Cum te afli?
+Sar san? : Cum te găsești?
+Sar si tiri famìlia? : Ce face familia ta?
+Sar sutǎn? : Cum ai dormit?
+Savorre ileça! : Din toată inima!
+Vov si jekh raklo. : El este un băiat din afara etniei rrome.  
+Kadava si šhavo vaj raklo? : Acesta este băiat rrom sau băiat nerrom? 
+Kadava si jekh šhavo. : Acesta este băiat rrom.  
+Kon si kadava? : Cine este acesta? 
+Kadava si jekh gaʒo. : Acesta este un persoană din afara etniei rrome. 
+Kadava si baśno? : Acesta este cocoş? 
+Va. Kadava si jekh baśno. : Da. Acesta este un cocoş. 
+So si kathe? : Ce este aici? 
+Kathe si jekh gono. Vov si gàlbeno. : Aici este un sac. El este galben.  
+O gono si šušo? Sar si vov? : Sacul este gol? Cum este el? 
+Na! Vov si pherdo. : Nu! El este plin. 
+Kaj si o gono? : Unde este sacul? 
+Vov si paśal vurdon. : El este lângă căruţă. 
+So si kadava? : Ce este acesta? 
+Kadava si jekh dikhlo. : Acesta este un batic. 
+Kadava so si? : Acesta ce este? 
+Kadava si jekh kòkalo. : Acesta este un os? 
+Sar si vov? : Cum este el? 
+Vov si parno. : El este alb. 
+So si kadava? : Ce este aceasta? 
+Kadava si jekh baxtalo pètalo. : Aceasta este o potcoavă norocoasă/ purtătoare de noroc. 
+Kadala si muja? : Acestea sunt guri? 
+Na! Kadala si nakha. : Nu! Acestea sunt nasuri. 
+Kadala nakha si gàlbena/ źïlta? : Aceste nasuri sunt galbene? 
+Na! E nakha si lole. : Nu! Nasurile sunt roşii. 
+Von si rakle vaj šhave? : Ei sunt băieţi nerromi sau rromi? 
+Kadala si duj rakle. : Aceştia sunt doi băieţi nerromi. 
+Kadala si jekh raklo thaj jekh šhavo? : Aceştia  sunt un băiat nerrom şi un băiat rrom?  
+Na! Kathe si duj šhave. : Nu! Aici sunt doi băieţi rromi.
+Kadala si nìśte (vùni) rroma. : Aceștia sunt niște rromi.
+* e ʒene [le, o, ol, ël, ïl ʒene] : Inșii/ tipii/ persoanele/ indivizii 
+Kazom ʒene si kathe? : Câți inși sunt aici? 
+Kathe si duj ʒene. : Aici sunt doi inși. 
+Kon si e ʒene? : Cine sunt persoanele?
+E ʒene si nìśte rroma. : Persoanele sunt niște rromi. 
+E ʒene si vùni rroma. : Persoanele sunt niște rromi. 
+Sar si e rroma? : Cum sunt persoanele rrome? 
+E rroma si zorale. : Rromii sunt puternici.
+Kothe si nìśte manuśa. : Aici sunt niște oameni.
+So si kodola? : Ce sunt aceștia? 
+Kodola si nìśte sapa. : Aceia sunt niște șerpi.
+Sar si e sapa? : Cum sunt șerpii?
+Kadala sapa si zorale. : Acești șerpi sunt puternici.
+So si kadala? : Ce sunt aceștia?
+Kadala si lila. : Acestea sunt cărți.
+Sar si e lila? : Cum sunt cărțile? 
+E lila si tikne. : Cărțile sunt mici. 
+Kaj si kadala lila? : Unde sunt aceste cărți?         
