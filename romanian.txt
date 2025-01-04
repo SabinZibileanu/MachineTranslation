@@ -1380,7 +1380,7 @@ Baie
 Fierbător
 Pat
 Televizor
-Ea a închis ușa
+Ea a închis ușa.
 El a aprins televizorul
 Închide lumina
 Pune vasul pe masă
