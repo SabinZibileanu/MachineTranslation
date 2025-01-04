@@ -211,7 +211,7 @@ Pato : Pat
 Televizori : Televizor
 Voi pandadea o udar : Ea a închis ușa
 Vo astardea o televizori : El a aprins televizorul
-Mudar o beco : Închide lumina
+Mudar o beco. : Închide lumina.
 Shu e vaza pe meseali : Pune vasul pe masă
 So si kadava? : Ce este acesta?
 Kadava si jekh ruv. : Acesta este un lup.
