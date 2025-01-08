@@ -211,7 +211,7 @@ Pato : Pat
 Televizori : Televizor
 Voi pandadea o udar : Ea a închis ușa
 Vo astardea o televizori : El a aprins televizorul
-Mudar o beco. : Închide lumina.
+Mudar o beco : Închide lumina
 Shu e vaza pe meseali : Pune vasul pe masă
 So si kadava? : Ce este acesta?
 Kadava si jekh ruv. : Acesta este un lup.
@@ -372,4 +372,445 @@ So si kadala? : Ce sunt aceștia?
 Kadala si lila. : Acestea sunt cărți.
 Sar si e lila? : Cum sunt cărțile? 
 E lila si tikne. : Cărțile sunt mici. 
-Kaj si kadala lila? : Unde sunt aceste cărți?         
+Kaj si kadala lila? : Unde sunt aceste cărți?
+So sî kadea? : Ce este aceasta?
+So sî ades? : Ce zi e azi?
+Karing jeas? : Unde mergi?
+So phendean? : Ce ați spus?
+So pušlean? : Ce ați întrebat?
+So kames? : Ce doriți?
+So kamel te kårål? : Ce vrea să facă?
+So rodes? : Ce căutați?
+So èi arakhås? : Ce nu găsiți?
+So hasardean? : Ce ați pierdut?
+So kårdean? : Ce s-a întâmplat?
+Kon phendea tukă kadea? : Cine v-a spus așa?
+Kon sas koèe? : Cine a fost aici?
+Kon kårdea kadea? : Cine a făcut asta?
+Kon sî kodoa manuši? : Cine e acel om?
+Kon bešel koèe? : Cine locuiește aici?
+Kon dea ande leste? : Cine a dat în el?
+Kai arakhau les? : Unde îl găsesc?
+Kai dikhlean les? : Unde l-ați văzut?
+Kai jean? : Unde mergeți?
+Kai sî? : Unde este?
+Kai te thoau katea buti? : Unde să pun lucrul acesta?
+Kana jeantar? : Când plecați?
+Kana tradean? : Când ai trimis?
+Kana ajukårdean? : Când ai așteptat?
+Kana ambolden tume? : Când vă întoarceți?
+Kana sas kadea? : Când s-a întâmplat?
+Kana èi mai avilea? : Când nu a mai venit?
+Kana pateasas kå avel? : Când credeai că vine?
+Sostar? : De ce?
+Sostar kårdean kadea? : De ce ai făcut așa?
+Sostar nakhlean oçal? : De ce ai trecut pe acolo?
+Då kana? : De când?
+Då kana èi mai avileas? : De când nu a mai venit?
+Kames vareso? : Doriți ceva?
+Te mudarau o beko? : Să sting lumina?
+Te astarau o beko? : Să aprind lumina?
+Kames le draba? : Vreți medicamentele?
+Kames pai? : Vreți apă?
+So èi arakhås? : Ce nu găsiți?
+Katar san? : De unde sunteți?
+Sostar èi den duma? : De ce nu vorbiți?
+Kastar sîtilean? : De la cine ați învățat?
+Sahkå kames te kårås vareso anda mande? : Ați vrea să faceți ceva pentru mine?
+Sosa daš ti kandav tume? : Cu ce vă pot fi de folos?
+Den ma i man? : Îmi dați și mie?
+Dašti te phenav tumengå vareso? : Pot să vă spun ceva?
+Dašti te pušav tu vareso? : Pot să vă întreb ceva?
+San sar mande? : Sunteți de acord?
+Èi holeauon... dacă fumez? : Nu vă deranjează...
+te çîrdaua duhano? : dacă fumez?
+te drabarau o lil? : dacă citesc?
+Roden varekas? : Căutați pe cineva?
+Dikhlean varesar khå jukleorî? : Ați văzut cumva o cățelușă?
+Dašti bešeau tele? : Pot să stau jos?
+Sî nango koèe? : Este liber aici?
+Ašunen mande! : Ascultați-mă!
+Rudi tume! : Vă rog!
+Aven koèe. : Veniți aici!
+Ašen tele! : Luați loc!
+So mândrimos! : Ce minunăție!
+So šukarimos! : Ce frumusețe!
+So barimos! : Ce măreție!
+So bravalimos! : Ce bogăție!
+Soi då mišto kå avilean! : Ce bine că ați venit!
+Mekån ma korkoào! : Lăsați-mă în pace!
+Na nakhån oçal! : Nu treceți pe acolo!
+So šukhar des! : Ce zi frumoasă!
+So dilimos! : Ce prostie!
+Jea! : Du-te!
+Na atărdeo! : Nu te opri!
+Ajukărăn ăkhçîra! : Așteptați o clipă!
+Huten! : Săriți!
+Le èioà! : Hoții!
+Astarăn-les! : Prindeți-l!
+Jeatar koçal! Telear koçal! : Pleacă de aici!
+Iertisarăn ma! : Scuzați-mă!
+Vazden tume! : Ridicați-vă!
+Na mekăn tume! : Nu vă lăsați!
+So lajau! : Ce rușine!
+Avel te avel! : Fir-ar să fie!
+Ašen! : Tăceți!
+Phandaven o udar, rudiv tume! : Închideți ușa, vă rog!
+Ambolde tu! : Întoarce-te!
+Na dilaba! : Nu cânta!
+Aw parpale! : Vino înapoi!
+Dilaba! : Cântă!
+Rou! : Plângi!
+Asa! : Râzi!
+Na ja oèe! : Nu te duce acolo!
+Naš! : Fugiți!
+Aš po than! : Stați pe loc!
+Atărde-o! : Oprește-te!
+Astar-ma! : Prinde-mă!
+De-ma e phabai! : Dă-mi mărul!
+Ramosar mangă! : Scrie-mi!
+Te na mai ašunav tu! : Să nu te mai aud!
+Jea dur! : Du-te departe!
+Patea-ma! : Crede-mă!
+Astarăn la èiornea! : Prindeți hoața!
+Thon o vast pe leste! : Puneți mâna pe el!
+Èi pateau. : Nu cred.
+Me phenau kå èi sîm. : Eu spun că nu sunt convins.
+Patean? : Credeți?
+Khălen tumengă? : Glumiți?
+Èeaèes? : Adevărat?
+Le ta dikh, avilean! : Ia te uită, ați venit!
+So surpriza laši! : Ce surpriză plăcută!
+Na mai phenen! : Nu mai spuneți!
+Kon sahkă phenel. : Cine ar fi spus?
+Fal ma khă filmo. : Parcă ar fi un film.
+Me našti te pateau tu. : Eu nu pot să vă cred.
+Nahkă dašti kărăl kadea vareso. : Nu ar fi făcut așa ceva.
+Sî khă hohaimos. : Este o minciună.
+Èeaililem. : M-am săturat.
+Sî lajaw. : Este o rușine.
+Sîles khă barearimos dilo. : Are o proastă creștere.
+Arăslea mangă ji poa šero. : Mi-a ajuns până peste cap.
+Sî pharo pateamahko. : Este greu de crezut.
+Sî khă baro dilimos. : Este o mare prostie.
+Mangă sa iekh. : Îmi e totuna.
+Hasardea pesti pativ angla sa le kolaver. : Și-a pierdut demnitatea în fața celorlalți.
+Phenes kå sî phanglo kal iakha. : Parcă ar fi legat la ochi.
+Anda mande manai khanèi. : Pentru mine nu mai înseamnă nimic.
+Lengå te avelengå lajaw kå mangå nai sostar. : Lor să le fie rușine, că mie nu are de ce să-mi fie.
+Èeaililem ji poa šero. : M-am săturat până peste cap.
+Dă kata sode bårš jean le šaoră koa khăr le sîkaimahko? : De la câți ani merg copiii la școală?
+Le šaoră jean koa khăr le sîkaimahko dă kata šov bărš. : Copiii merg la școală de la vârsta de șase ani.
+Sode bărš sî musai o sîkaimos? : Câți ani e obligatorie școala?
+O khăr le sîkaimahko sî musai ji ka 16 bărš. : Școala este obligatorie până la vârsta de 16 ani.
+O sîkaimos sî ivea. : Învățământul este gratuit.
+Kana sîteon le šaóră khă sîkaimos kha šibako èemuii? : Când încep copiii studierea unei limbi străine?
+Tume den tumară šaven koa khår le sîkaimahko? : Dumneavoastră vă dați copiii la școală?
+Le šaóră trăbun te sîteon lill kaste nakhån mišto andoa traio. : Copiii trebuie să învețe carte ca să se descurce în viață.
+Mai anglal amară šaóră èi jeanas koa khår le sîkaimahko. : Mai demult copiii noștri nu mergeau la școală.
+O khăr le sîkaimahko pateanas les khå lajeau. : Școala era considerată o rușine.
+Le rom èi tråbunas kaste sîteon lill. : Romii nu aveau nevoie să învețe carte.
+Akana bi lillehko naštil pe te mai juvis. : Acum, fără carte nu se mai poate trăi.
+O lill vazdel le manušes. : Cartea înnobilează omul.
+Kai sîtilean te des duma kadea šukhar? : Unde ați învățat să vorbiți așa frumos?
+Koa khăr le sîkaimahko sîtilem te dau duma. : La școală am învățat să vorbesc.
+Sar sîteon le šaóră le romengă te den duma rumînishko? : Cum învață copiii de romi să vorbească românește?
+Le šaóră le romengă sîteon lidui šiba ăkhdata. : Copiii de romi învață amândouă limbile deodată.
+Kon patean kă sî dimahkåanglal ando sîkaimos le šaórăngeo mai anglal? : Cine credeți că sunt cei răspunzători în primul rând pentru educația copiilor de romi?
+Pateau kå anda kadea buti le deia trăbun te sîkaven le thai te aven dimahkăanglal. : Cred că de acest fapt trebuie să fie răspunzătoare mamele.
+E dei sî kutea kai trăbul te sîkavel thai te kărăl o sîkaimos le šaórohko. : Mama este cea care trebuie să învețe și să formeze copilul.
+Le juvlea le romnea kărăn kadea buti? : Femeile rome se ocupă de acest lucru?
+But hançî kărăn kadea buti. : Foarte puține fac lucrul acesta.
+Kon kandel le šaóran te kărăn pehkå lekçii khără? : Cine îi ajută pe copii să-și facă temele de acasă?
+Le šaóră le romengă kai sî mai bravale len khără sîkaitorea te sîkaven lengă. : Romii care sunt mai bogați își iau meditatori acasă ca să-i învețe pe copii.
+Akana, le šaóră tråbun te jean koa khăr le sîkaimahko. : Acum, copiii trebuie să meargă la școală.
+Sar sîteos, so note sî tu? : Cum înveți, ce note ai?
+Ana aleargă în fiecare zi : E Ana prastel ande sako des.
+Eu alerg doar când îmi aduc aminte : Me prastau numa kana anau mangă godi.
+Eu nu mai alerg, căci am probleme cu inima : Me èi mai prastau kå sîma zan le illesa.
+Perfect. Sas khå zuralimos atletiko : Perfect. Avea o ținută atletică.
+Sode prastes tu ande sako des? : Cât alergi tu zilnic?
+Èi jeanau. Pateau kå 4 km : Nu știu. Cred că 4 km.
+Sî hançî. Tråbul mai but : E puțin. Trebuie mai mult.
+Èi ašadeolas? : Nu obosea?
+Nici pomeneală. El făcea lucrul ăsta de la vârsta de 20 de ani în fiecare zi : Èi èi phendeol pe. O kårălas kadea buti då kana sas les 20 bårš ande sako des.
+Nu te lăsa, aleargă : Na mekh tu, praste.
+Cine a câștigat? : Kon lea?
+Sportiva noastră, bineînțeles: Atearål pe kå amari sportiva.
+Când va fi premierea?: Kana sî e premiera?
+Peste trei ore : Pa trin èeasuri.
+Hai să mergem și noi cu mașina până acolo : Haida te jeas i ame le urdonesa ji oèe.
+Kames te khăles tukå volei amença? : Vreți så jucați volei cu noi?
+Èi mai khåldem då kana sîmas šaóro. : N-am jucat de când eram copii.
+Atunèea khălenas tumengå but? : Atunci vå jucați mult?
+Sî muro than te dau. : Este rândul meu să servesc.
+Sas avri/ sas aut. : A fost afară / în out.
+Sas khå malaimos but lašo. : A fost o lovitură foarte bună.
+Athadimos. : Greșeală.
+Sao sî akana o skoro? : Care este acum scorul?
+Haida te khålas amengå. : Hai să ne mai jucăm.
+Mai sî tume èiro te khålas amengå? : Mai aveți timp să ne jucăm?
+E mai sî te ašeau hançî. : Da, am să mai rămân puțin.
+Èeaileol ma te dašti malavau les. : Îmi place să o pot lovi.
+Katar daști lel pe unjile khå bero? : De unde se poate închiria o barcă?
+Sode kårål o èeaso? : Cât costă ora?
+Èi, daști sarau korkoào. : Nu, mă descurc singur.
+Sî tume thana anda tehara? : Aveți locuri pentru mâine?
+Savendar thana kamen? : Ce locuri ați dori?
+Sahkå kamas thana mai anglal. : Am dori locuri mai în față.
+Mai koa maškhar la salako. : Mai pe la mijlocul sălii.
+Dui lilla mai palal. : Două bilete în spate.
+Sode kårål khå lill? : Cât costă un bilet la lojă?
+Sar te na. Kai kamen? : Cum să nu. Unde doriți?
+Mai sî tume lilla kai piesa e romaii? : Mai aveți bilete la piesa română?
+Kai thon pe le rahamea? : Unde este garderoba?
+Alen tumaro numåro. : Poftiți numărul dumneavoastră.
+Kamen khå programo? : Doriți un program?
+Naiv tumengå but. : Vă mulțumesc foarte mult.
+Tumarå thana sî kata. : Locurile dumneavoastră sunt aici.
+Darav kå bešen pe muro than. : Mă tem că stați pe locul meu.
+Fal ma nasul, athadile-m o rîndo. : Îmi pare rău, am greșit rândul.
+Dašti dikhån då oçal? : Puteți vedea de acolo?
+Sî tiro than. : Este rândul tău.
+Savestar lill sî kakoa? : Ce carte este aceasta?
+Pe soste khålas amengå? : Pe ce ne jucăm?
+Kon hamil le lilla? : Cine amestecă cărțile?
+Sahkå kamau te hamile me. : Aș vrea să le amestec eu.
+Kames te šines? : Vrei să tai?
+Tu hulaves le. : Tu le împarți.
+Me numa dikhau kal kolaver. : Eu doar mă uit la ceilalți.
+Akana tråbul te jau kkhårå. : Acum trebuie să plec acasă.
+Dašti te nigrav tu? : Pot să vă conduc?
+Sahkå fal ma mišto. : Aș fi încântată.
+Sîm hanç ašadi. : Sunt puțin obosită.
+Kamau te hodinima. : Aș vrea să mă odihnesc.
+Åkh çîra mai dur. : Un pic mai târziu.
+Kames te dikhås koa tilizori? : Vrei să te uiți la televizor?
+Kames te des drom e difuzori. : Vrei să dai drumul radioului?
+Sostar ašundeol pe kadea èioàås? : De ce se aude așa de prost?
+Kames te lašarås les? : Vrei să încerci să-l reglezi?
+Zumadem, ta naštil pe. : Am încercat, dar nu se poate.
+Tråbul te nigrau les koa kårimos. : Trebuie să-l duc la reparat.
+Akana dièiol pe but ujo. : Acum imaginea se vede foarte clar.
+Sî ma but plåèi dilabaimahkå romanea. : Am foarte multe discuri cu muzică romă.
+Katar tindean le? : De unde le-ai cumpărat?
+Len iag te pînàå. : Îți iau foc călcâiele.
+So saskå avel e lumea bi le dilabaimahko le romengo? : Ce ar fi lumea fără muzica romilor?
+Sî tu khå èeaèeo tidimos. : Ai o adevărată colecție.
+Dašti te thos mangå khå plaka romaii le romença andai Rusia? : Ai putea să-mi pui un disc cu muzică romă din Rusia?
+Kana sas? : Când a fost?
+Kana avilean? : Când ați venit?
+Kana aråslean? : Când ați ajuns?
+Kana pušlea tume? : Când v-a întrebat?
+Ji kana? : Până când?
+Ji kana ašen amende? : Până când rămâneți la noi?
+Kana sî te jeantar? : Când o să plecați?
+Kana sî o abeau? : Când va fi nunta?
+Kana sî e tomneala? : Când are loc logodna?
+Kana akharås la khårå? : Când o chemi acasă?
+Kana avel o ivend? : Când vine iarna?
+Kana sahkå dašti te avau? : Când aș putea să vin?
+Kana jeastar? : Când plecăm?
+Kana dašti dau duma le rasa? : Când pot vorbi cu domnul?
+Då kana èi mai dikhås kadea mišto? : De când nu mai vedeți așa bine?
+Då kana ajukårån koèe? : De când așteptați aici?
+Då kana èi mai den duma? : De când nu mai vorbiți?
+Kana sîtu godi te iertis les? : Când ai de gând să-l ierți?
+Sode kårål? : Cât costă?
+Sode sî ji oèe? : Cât ar fi până acolo?
+Sode te mai jeau? : Cât mai trebuie să merg?
+Ka sode èeaso? : La ce oră?
+Ka sode èeaso phandadeol? : La ce oră se închide?
+Ka sode èeaso pîtårdeol? : La ce oră se deschide?
+Ji ka sode èeaso? : Până la ce oră?
+Sode èiro? : Cât timp?
+Sode phendean? : Cât ai spus?
+Sode pateaian kå kårål? : Cât ai crezut că face?
+Sode dikhås le iakhånça. : Cât vezi cu ochii.
+Sode då but? : Cât de mult?
+Sode èiro hasardem? : Cât timp am pierdut?
+Sode nikrål o spektakolo? : Cât durează spectacolul?
+Sode èiro sî te aves teleardo? : Cât timp veți fi plecat?
+Sode èiro sî te ašes oèe? : Cât timp veți sta acolo?
+Sode bårš sî tume? : Câți ani aveți?
+Kai sî o birowo le pušlimatångo? : Unde este biroul de informații?
+Kai nigrål kakoa drom? : Unde duce acest drum?
+Kai phendea te arakhadiuas? : Unde a spus că ne întâlnim?
+Kai mukhlean le šaoàås? : Unde ați lăsat copilul?
+Katar daști te tinel pe... : De unde se poate cumpăra...
+Katar dašti saras te las... : De unde am putea lua...
+Kai sî o than kodoa? : Unde este locul acela?
+Katar te jeanau? : De unde să știu?
+Katar sahkå dašti te avel? : Pe unde ar putea să fie?
+Katar avel o? : Pe unde vine el?
+So zan sî tu? : Ce problemă aveți?
+So avilea lehkå? : Ce i s-a întâmplat?
+So kårdea? : Ce a făcut?
+So nevimata sî tu? : Ce noutăți ai?
+So phenes? : Ce spuneți?
+Pa soste sî o divano? : Despre ce este vorba?
+Ka soste thol pe katea? : La ce folosește asta?
+Ka soste sîteos? : La ce învățați?
+So phendimos sîtu? : Ce părere aveți?
+So phendea? : Ce a spus?
+So dea duma? : Ce a vorbit?
+So èi arakhlea? : Ce nu a găsit?
+So sa rodea? : Ce a tot căutat?
+So sî te kårål? : Ce tot spunea?
+So avela? : Ce se va face?
+So sî te avela? : Ce ar urma?
+So avela? : Ce va fi?
+So? : Ce?
+So sî : Ce este?
+So kames? : Ce doriți?
+So fal pe ...? : Ce înseamnă...?
+So tråbul tume? : Ce vă trebuie?
+So hasardean? : Ce ați pierdut?
+So roden? : Ce căutați?
+Èi. : Nu.
+Èi kamau. : Nu vreau.
+Èi pateau. : Nu cred.
+Èi jeau. : Nu merg.
+Nai kadea. : Nu este așa.
+Nai èeaèes. : Nu este adevărat.
+Nai khanèi. : Nu-i nimic.
+Nai but. : Nu e mult.
+Nai hantî. : Nu e puțin.
+Èiåkhdata. : Niciodată.
+Nai orta. : Nu-i drept.
+Èi mai našti... : Nu mai pot...
+Èi kamau te dau duma. : Nu vreau să vorbesc.
+Èi kamau te ajukårau. : Nu vreau să aștept.
+Èi kamau te holearav tu. : Nu vreau să te supăr.
+Èi atearau. : Nu înțeleg.
+Èi kamblem. : Nu am vrut.
+Èi kårål. : Nu merită.
+Èi kårål khanèi. : Nu face nimic.
+Manai ma pateaimos. : Nu mai am încredere.
+Manai khanèi kårimahko. : Nu mai e nimic de făcut.
+Èi andoa suno, èi kamau. : Nici prin vis, nu vreau.
+Èi kamau te zumavau. : Nu vreau să încerc.
+Nai ma khanèi phendimahko. : Nu am nimic de spus.
+Èi daštisarau te rodau oèe. : Nu reușesc să caut acolo.
+Sar kana nièi nas kå phendem. : Ca și când n-aș fi spus.
+Khanikai nai mišto. : Nicăieri nu e bine.
+Èi ateardem tume. : Nu v-am înțeles.
+Našti mai dašti te ramo. : Nu mai pot să scriu.
+Roden varekas? : Căutați pe cineva?
+Dikhlean varesar khå jukleorî? : Ați văzut cumva o cățelușă?
+Dašti bešeau tele? : Pot să stau jos?
+Sî nango koèe? : Este liber aici?
+Prinjeanau kå athadilem. : Recunosc că am greșit.
+E doš sas numa mîàî. : Vina a fost doar a mea.
+Našti dau parpale, me sîm došali. : Nu pot da înapoi, eu sunt vinovat.
+Athadilem. : Am greșit.
+Sîm došalo. : Sunt vinovat.
+Èi kamblem te kårau tu mengå nasul. : Nu am vrut să vă fac rău.
+Èi ande mangå godi ka kadea. : La asta nu m-am gândit.
+Kamaus te na holearau tume. : Sper că nu v-am supărat.
+So prikaza! : Ce ghinion!
+Èi kamblem te holearv tume. : Nu am vrut să vă supăr.
+Koèe. : Aici.
+Înteal. : Dincolo.
+Bezeh. : Păcat.
+Pateau èå e. : Cred că da.
+Mangå avel mangå. : Mie îmi convine.
+But mišto. : Foarte bine.
+Sî tu èeaèimos. : Ai dreptate.
+Orta kadea. : Chiar așa.
+Kadea sî. : Așa este.
+Atearau. : Înțeleg.
+Dikhau but mišto. : Văd foarte bine.
+Sî ceaèeo. : Este adevărat.
+Kadea sî. : Așa e.
+Akana atearau. : Acum înțeleg.
+Pateau kå tehara. : Cred că mâine.
+Tehara sîma but kårimahkå. : Mâine am multe de făcut.
+Atunèea overtehara? : Atunci, poimâine?
+Overtehara dikhasa o foro. : Poimâine vom vedea orașul.
+Kai bešen? : Unde locuiți?
+Nai ame ji akana than koa hotelo. : Nu avem încă rezervare la hotel.
+Phenav tumengå me iekh. : Vă recomand eu unul.
+Kames te mai dikhas ame? : Vreți să ne mai vedem?
+Tråbul te jeau khårå. : Trebuie să plec acasă.
+Naști mai ašes? : Nu mai puteți rămâne?
+Bešlem ji akana but. : Am stat deja foarte mult.
+Kai dašti arakhav tu? : Unde vă pot găsi?
+Kadea sî mîrî adresa. : Aceasta este adresa mea.
+Aves i tehara koèe? : Veniți și mâine aici?
+Èi pateau. : Nu cred.
+Me ajukårav tu. : Eu vă aștept.
+Dašti mai bešes hançorî? : Mai puteți sta un pic?
+Te mai aves amendar. : Să mai vii pe la noi.
+Amande san orkana mišto avilino. : La noi sunteți binevenit oricând.
+Prinjeane-s mîra phea? : O cunoașteți pe sora mea?
+Prinjeanes le ras o Mihai? : Îl cunoașteți pe domnul Mihai?
+Èi dikhleama me då but. : Nu ne-am văzut de mult.
+So bakh te arakhav tume koèe. : Ce noroc că vă întâlnesc aici.
+Kamau te dau duma la... : Vreau să vorbesc cu...
+Ajukårån hançî. : Așteptați un moment.
+Rudi tu te akharås pale. : Vă rog să sunați din nou.
+Fal ma nasul, ades nai arakhlimahko. : Îmi pare rău, astăzi nu e de găsit.
+Sî teleardo. : Este plecat.
+Sî tume vareso anda leste? : Aveți un mesaj pentru el?
+Dav tumengå les koa tilifono. : Vi-l dau imediat la telefon.
+Halo, Laši reat, e èentrala? : Alo, bună seara, centrala?
+Åkh çîra, ašen po thav. : O clipă, rămâneți pe fir.
+Na phandaven o tilifono. : Nu închideți telefonul.
+Sî te kårav tumengå o phanglimos. : Am să vă fac legătura.
+E linia sî but pherdi. : Linia este foarte ocupată.
+Sî tume o phanglimos. : Aveți legătura.
+Den duma mai zurales, èiašundeol pe. : Vorbiți mai tare, nu se aude.
+Sî mišto akana? : Este bine acum?
+Sar te na. Nai èi khå zan. : Desigur. Nu este nici o problemă.
+Phenen mangå o numåro. : Spuneți-mi numărul.
+Kon akharål te potinen oèe? : Cine sună cu taxă inversă?
+Ramon kakoa lill. : Completați acest formular.
+Sî tume but te ajukrån. : Aveți cam mult de așteptat.
+Halo, akana vazdea-s. : Alo, acum a răspuns.
+Den duma, rudi tu. : Vorbiți, vă rog.
+Sas tukå dar? : Îți a fost frică?
+Akana sî des or reat oèe? : Acum e ziua sau noaptea acolo?
+Akana sî des tumende sî reat. : Aici este ziua, la noi e noapte.
+Khålel pe khå piesa nevi. : Se joacă o piesă în premieră.
+Sar bušol? : Cum se cheamă?
+O Arman le Sapesehko. : Blestemul cărpelui.
+Numa englezîsko. : În engleză doar.
+Mai but tålmåèime. : Mai mult în traducere.
+Sao lill drabardean mai palal? : Ce carte ați citit ultima oară?
+Naiv tumengå, but. : Vă mulțumesc foarte mult.
+Sî muro ramaitorii o mai kuèi. : Este scriitorul meu preferat.
+Drabardem sa lehkå lilla. : I-am citit toate cărțile.
+Ispråvisardean drabarimahko o lill? : Ai terminat de citit cartea?
+èi, aråslem kai foaia 281. : Nu, am ajuns doar la pagina 281.
+Sar fal pe tukå? : Cum ți se pare?
+Katar les tukå le lilla le drabarimahkå? : De unde îți iei cărți de citit?
+Akana tinau mangå le. : Acum mi le cumpăr.
+Sa so èeaileol ma, tinau. : Tot ce-mi place cumpăr.
+Jeanau so sî khå lill. : Știu ce înseamnă o carte.
+Apo av te alos tukå. : Atunci vino să-ți alegi.
+Sahkå kames te khåles tukå amença? : Ați dori să vă jucați cu noi?
+Èi janau o khålimos. : Nu știu jocul.
+Mai mišto mai dur sar èiåkhdata. : Mai bine mai târziu decât niciodată.
+Kon kamel but, nai les khanèi. : Cine vrea prea mult, nu are nimic.
+Nai rahami kårål le manušes. : Nu haina face pe om.
+Sako nasul karing o mišto. : Orice rău înspre bine.
+Kon kårdeol bakri, hales o ruuw. : Cine se face oaie, îl mănâncă lupul.
+Te jeal le nakhåsa ande braval. : A merge cu nasul în vânt.
+Mar o sastri ji kai lo tato. : Bate fierul până-i cald.
+Kårås mišto, mišto arakhås. : Faci bine, bine găsești.
+Kårås nasul, nasul arakhås. : Faci rău, rău găsești.
+O iuçîmos èiorarål e buti. : Graba strică treaba.
+Te împătil i la buznea thai i le šahås. : A împăca și capra și varza.
+E dar del tu zor. : Frica dă curaj.
+Kon athadeol, potinel. : Cine greșește, plătește.
+Te del pehko manào katoa mui. : A-ți lua pâinea de la gură.
+Bimohko sar khå mašo. : Tăcut ca un pește.
+E bokh sî o mai lašo tiraitorii. : Foamea e cel mai bun bucătar.
+O jukål kai bašel èi hal. : Câinele care latră nu mușcă.
+E reat sî lašo krisînitori. : Noaptea e bună etnic.
+Na e rahami kårål le manušes. : Nu haina face pe om.
+Kon rodel arakhål. : Cine caută găsește.
+Khå divano lašo atårdearål e holi. : Un răspuns bun potolește mânia.
+Kon sî iuto kai holi kårål dilimata. : Cine este iute la mânie, face prostii.
+Orkai kårl pe buti sî i mandin. : Oriunde se muncește este și câștig.
