@@ -5,4 +5,4 @@
 
 ## The tokenizer directory contains the code for obtaining the tokenizer (if you want to make changes to the tokenizer you can run the code from there).
 
-## If you just want to reproduce the results you can run the code from the MTProject notebook.
+## If you just want to reproduce the results you can run the code from the notebooks in the main branch.
